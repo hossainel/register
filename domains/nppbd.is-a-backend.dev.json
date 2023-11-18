@@ -1,0 +1,28 @@
+{
+    "domain": "is-a-backend.dev",
+    "subdomain": "nppbd",
+
+    "owner": {
+        "email": "faxbd7@gmail.com"
+    },
+
+    "records": {
+        "A": ["185.151.30.172"],
+        "AAAA": ["2a07:7800::172"],
+        "CNAME": "nppbd.com",
+        "MX": [
+            {
+                "priority": 10,
+                "value": "mx.stackmail.com"
+            }
+        ],
+        "TXT": [
+            {
+                "name": "@",
+                "value": "nppbd=iamsosad77"
+            }
+        ]
+    },
+
+    "proxied": true
+}
